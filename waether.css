@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent
+{
+    background: url(landscape.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+input{
+    padding: 5px 15px;
+   
+}
+button{
+    background-color: blue;
+    padding: 5px ;
+}
+
+.city img{
+    width: 30px;
+}
+.city{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 1000px;
+}
+h3{
+    margin-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.date{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 1050px;
+    color: white;
+}
+.date img{
+    width: 10px;
+}
+.temp{
+    display: flex;
+    margin-left: 1000px;
+}
+
+.temp p{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#img1{
+width: 50px;
+margin-right: 20px;
+margin-top: 10px;
+}
+#img2{
+    width: 50px;
+    margin-top: 10px;
+}
+.sunny img{
+    width: 30px;
+    
+}
+.sunny p{
+    color: white;
+   
+    font-size: 30px;
+    margin-left: 10px;
+}
+.sunny{
+    display: flex;
+    margin-left: 1120px;
+    margin-top: 50px;
+}
+.feels{
+    display: flex;
+    margin-left: 1110px;
+    margin-top: 5px;
+}
+.feels p{
+    color: white;
+}
+#img4{
+    width: 20px;
+}
+.humid{
+    display: flex;
+    margin-left: 1104px;
+    margin-top: 5px;
+}
+.humid p{
+    color: white;
+}
+#img5{
+    width: 30px;
+}
+.wind{
+    display: flex;
+    margin-left: 1110px;
+    margin-top: 5px;
+}
+.wind p{
+    color: white;
+}
+#img6{
+    width: 20px;
+}
